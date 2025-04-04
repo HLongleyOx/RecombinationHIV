@@ -1,0 +1,1208 @@
+studyID,subtype,country,days_since_first_sample,is_pacbio,is_illumina,is_both_platforms
+0009,C,South Africa,176,1,1,1
+0008,08_BC,South Africa,0,1,1,1
+0010,C,South Africa,357,1,1,1
+0023,C,South Africa,336,1,1,1
+0022,C,South Africa,181,1,1,1
+0021,C,South Africa,0,1,1,1
+0027,C,South Africa,267,1,0,0
+0026,C,South Africa,0,1,0,0
+0038,08_BC,South Africa,181,1,1,1
+0037,C,South Africa,91,1,1,1
+0036,C,South Africa,0,1,1,1
+0039,08_BC,South Africa,357,1,1,1
+0045,A1,Kenya,124,1,1,1
+0044,A1,Kenya,0,1,1,1
+0051,A1,Kenya,359,1,1,1
+0050,A1,Kenya,180,1,1,1
+0049,A1,Kenya,0,1,1,1
+0071,A1,Kenya,187,1,1,1
+0070,02_AG,Kenya,91,1,1,1
+0072,02_AG,Kenya,355,1,1,1
+0082,A1,Kenya,187,1,0,0
+0081,A1,Kenya,95,1,0,0
+0080,A1,Kenya,0,1,0,0
+0088,A1,Kenya,85,1,1,1
+0087,A1,Kenya,0,1,1,1
+0113,D,Uganda,102,1,1,1
+0112,D,Uganda,0,1,1,1
+0114,D,Uganda,285,1,1,1
+0120,A3,Uganda,302,1,0,0
+0119,50_A1D,Uganda,209,1,0,0
+0118,A3,Uganda,0,1,0,0
+0129,D,Uganda,273,1,1,1
+0128,D,Uganda,0,1,1,1
+0135,D,Uganda,359,1,0,0
+0134,D,Uganda,0,1,0,0
+0153,D,Uganda,490,1,1,1
+0152,D,Uganda,380,1,1,1
+0151,D,Uganda,136,1,1,1
+0165,A1,Uganda,131,1,1,1
+0164,A1,Uganda,0,1,1,1
+0172,D,Uganda,88,1,0,0
+0171,D,Uganda,0,1,1,1
+0174,D,Uganda,450,1,0,0
+0173,D,Uganda,359,1,1,1
+0186,A1,Uganda,266,1,0,0
+0185,A1,Uganda,0,1,0,0
+0196,D,Uganda,272,1,1,1
+0195,D,Uganda,181,1,0,0
+0194,D,Uganda,0,1,1,1
+0202,A1,Uganda,90,1,1,1
+0201,A1,Uganda,33,1,1,1
+0200,A1,Uganda,0,1,1,1
+0204,A1,Uganda,362,1,1,1
+0203,A1,Uganda,243,1,1,1
+0209,D,Uganda,346,1,0,0
+0208,D,Uganda,176,1,0,0
+0207,D,Uganda,0,1,0,0
+0217,A1,Uganda,293,1,0,0
+0216,35_AD,Uganda,203,1,1,1
+0218,35_AD,Uganda,398,1,1,1
+0215,A1,Uganda,91,1,1,1
+0214,A1,Uganda,0,1,0,0
+0227,A1,Uganda,68,1,1,1
+0226,A1,Uganda,0,1,1,1
+0228,A1,Uganda,159,1,1,1
+0229,A1,Uganda,337,1,1,1
+0236,C,Uganda,270,1,0,0
+0235,C,Uganda,179,1,0,0
+0234,C,Uganda,0,1,0,0
+0245,D,Uganda,362,1,1,1
+0244,D,Uganda,183,1,1,1
+0243,D,Uganda,0,1,1,1
+0258,D,Uganda,109,1,1,1
+0257,D,Uganda,0,1,1,1
+0259,D,Uganda,348,1,1,1
+0267,D,Uganda,91,1,0,0
+0266,D,Uganda,0,1,0,0
+0268,D,Uganda,359,1,0,0
+0278,A1,Uganda,331,1,1,1
+0277,A1,Uganda,271,1,1,1
+0276,A1,Uganda,86,1,1,1
+0275,A1,Uganda,0,1,1,1
+0287,A1,Uganda,181,1,1,1
+0286,A1,Uganda,103,1,1,1
+0285,A1,Uganda,0,1,1,1
+0288,A1,Uganda,373,1,1,1
+0306,A1,Uganda,360,1,1,1
+0305,A1,Uganda,90,1,0,0
+0308,31_BC,Uganda,178,1,1,1
+0307,31_BC,Uganda,0,1,1,1
+0309,31_BC,Uganda,360,1,1,1
+0341,C,Botswana,224,1,1,1
+0340,C,Botswana,122,1,1,1
+0339,C,Botswana,0,1,1,1
+0345,C,Botswana,244,1,0,0
+0344,C,Botswana,0,1,0,0
+0364,08_BC,Botswana,117,1,1,1
+0363,C,Botswana,0,1,1,1
+0372,A1,Kenya,155,1,0,0
+0371,35_AD,Kenya,0,1,0,0
+0410,A1,Kenya,101,1,1,1
+0409,A1,Kenya,0,1,0,0
+0411,A1,Kenya,292,1,1,1
+0419,A1,Kenya,360,1,1,1
+0418,A1,Kenya,274,1,1,1
+0417,A1,Kenya,0,1,1,1
+0431,21_A2D,Kenya,180,1,0,0
+0430,21_A2D,Kenya,0,1,0,0
+0439,A1,Kenya,180,1,0,0
+0438,A1,Kenya,0,1,0,0
+0456,G,Kenya,98,1,0,0
+0455,G,Kenya,0,1,0,0
+0457,G,Kenya,348,1,0,0
+0468,A1,Kenya,90,1,1,1
+0467,A1,Kenya,0,1,1,1
+0469,A1,Kenya,360,1,1,1
+0482,A1,Kenya,363,1,0,0
+0481,A1,Kenya,181,1,0,0
+0480,A1,Kenya,0,1,0,0
+0496,35_AD,Kenya,236,1,0,0
+0495,35_AD,Kenya,0,1,0,0
+0498,C,Kenya,91,1,0,0
+0497,C,Kenya,0,1,0,0
+0499,31_BC,Kenya,362,1,0,0
+0508,A1,Kenya,170,1,1,1
+0507,A1,Kenya,111,1,0,0
+0510,A1,Kenya,485,1,1,1
+0509,A1,Kenya,356,1,1,1
+0514,D,Kenya,273,1,0,0
+0513,D,Kenya,0,1,0,0
+0522,A1,Kenya,182,1,1,1
+0521,35_AD,Kenya,0,1,1,1
+0524,A1,Kenya,359,1,0,0
+0523,A1,Kenya,0,1,0,0
+0539,A1,Kenya,320,1,1,1
+0538,A1,Kenya,238,1,1,1
+0537,A1,Kenya,0,1,1,1
+0546,D,Kenya,179,1,0,0
+0545,D,Kenya,0,1,0,0
+0554,10_CD,Kenya,360,1,0,0
+0553,10_CD,Kenya,0,1,0,0
+0558,A2,Kenya,267,1,0,0
+0557,A2,Kenya,0,1,0,0
+0566,A1,Kenya,270,1,0,0
+0565,A1,Kenya,0,1,0,0
+0573,A1,Kenya,294,1,1,1
+0572,A1,Kenya,203,1,1,1
+0571,A1,Kenya,0,1,1,1
+0581,A1,Kenya,313,1,0,0
+0580,A1,Kenya,189,1,0,0
+0579,A1,Kenya,0,1,0,0
+0585,A1,Kenya,240,1,0,0
+0584,A1,Kenya,0,1,0,0
+0615,D,Kenya,272,1,0,0
+0614,D,Kenya,174,1,0,0
+0613,D,Kenya,0,1,0,0
+0622,D,Kenya,220,1,0,0
+0621,D,Kenya,0,1,0,0
+0628,A2,Kenya,259,1,1,1
+0627,A2,Kenya,160,1,1,1
+0626,A2,Kenya,0,1,1,1
+0630,A1,Kenya,64,1,0,0
+0629,A1,Kenya,0,1,0,0
+0637,C,Kenya,90,1,1,1
+0636,C,Kenya,0,1,0,0
+0638,C,Kenya,299,1,1,1
+0648,A1,Kenya,173,1,0,0
+0647,A1,Kenya,0,1,0,0
+0679,C,South Africa,72,1,0,0
+0678,08_BC,South Africa,0,1,0,0
+0681,C,South Africa,181,1,1,1
+0680,C,South Africa,0,1,1,1
+0682,C,South Africa,364,1,1,1
+0689,C,South Africa,175,1,1,1
+0688,C,South Africa,0,1,1,1
+0690,C,South Africa,356,1,1,1
+0696,08_BC,South Africa,130,1,0,0
+0695,08_BC,South Africa,0,1,0,0
+0700,C,South Africa,130,1,1,1
+0699,C,South Africa,0,1,1,1
+0701,C,South Africa,303,1,1,1
+0704,C,South Africa,368,1,1,1
+0703,C,South Africa,97,1,1,1
+0708,C,South Africa,90,1,0,0
+0707,C,South Africa,0,1,0,0
+0709,C,South Africa,357,1,0,0
+0717,C,South Africa,336,1,1,1
+0716,C,South Africa,181,1,1,1
+0725,08_BC,South Africa,176,1,1,1
+0724,C,South Africa,0,1,1,1
+0727,C,South Africa,160,1,1,1
+0726,C,South Africa,0,1,1,1
+0737,C,South Africa,262,1,1,1
+0736,08_BC,South Africa,173,1,1,1
+0735,08_BC,South Africa,0,1,1,1
+0741,C,South Africa,87,1,1,1
+0740,C,South Africa,0,1,1,1
+0747,C,South Africa,204,1,0,0
+0746,C,South Africa,0,1,0,0
+0755,C,South Africa,174,1,0,0
+0754,C,South Africa,0,1,0,0
+0761,A1,Kenya,109,1,1,1
+0760,A1,Kenya,0,1,0,0
+0762,A1,Kenya,364,1,1,1
+0767,A1,Kenya,153,1,1,1
+0766,A1,Kenya,0,1,1,1
+0779,C,South Africa,179,1,0,0
+0778,C,South Africa,0,1,0,0
+0782,08_BC,South Africa,242,1,1,1
+0781,08_BC,South Africa,153,1,1,1
+0780,08_BC,South Africa,0,1,1,1
+0788,35_AD,Uganda,91,1,1,1
+0787,35_AD,Uganda,0,1,1,1
+0796,A1,Uganda,269,1,1,1
+0795,45_cpx,Uganda,185,1,1,1
+0794,A1,Uganda,0,1,0,0
+0797,A1,Uganda,496,1,1,1
+0806,D,Uganda,171,1,1,1
+0805,D,Uganda,90,1,1,1
+0807,D,Uganda,346,1,1,1
+0816,D,Uganda,179,1,1,1
+0815,D,Uganda,70,1,1,1
+0817,D,Uganda,360,1,1,1
+0827,A1,Uganda,261,1,0,0
+0826,A1,Uganda,0,1,0,0
+0831,A1,Uganda,485,1,0,0
+0830,A1,Uganda,246,1,0,0
+0828,A1,Uganda,0,1,0,0
+0829,A1,Uganda,91,1,0,0
+0838,D,Uganda,156,1,1,1
+0837,D,Uganda,90,1,1,1
+0840,D,Uganda,492,1,1,1
+0839,D,Uganda,365,1,1,1
+0845,A1,Uganda,269,1,1,1
+0844,A1,Uganda,164,1,1,1
+0843,A1,Uganda,0,1,0,0
+0849,A1,Uganda,168,1,1,1
+0848,A1,Uganda,0,1,1,1
+0858,A1,Uganda,82,1,1,1
+0857,A1,Uganda,0,1,1,1
+0859,A1,Uganda,166,1,1,1
+0865,A1,Uganda,251,1,0,0
+0864,A1,Uganda,0,1,0,0
+0872,A3,Uganda,168,1,1,1
+0871,A1,Uganda,0,1,1,1
+0883,A1,Uganda,840,1,1,1
+0881,A1,Uganda,168,1,1,1
+0894,A1,Uganda,334,1,1,1
+0893,A1,Uganda,0,1,1,1
+0896,A1,Uganda,165,1,0,0
+0895,A1,Uganda,0,1,0,0
+0900,D,Uganda,84,1,0,0
+0899,D,Uganda,0,1,0,0
+0901,D,Uganda,168,1,0,0
+0902,D,Uganda,331,1,0,0
+0919,C,Uganda,100,1,0,0
+0918,C,Uganda,0,1,0,0
+0920,C,Uganda,336,1,0,0
+0922,19_cpx,Uganda,95,1,0,0
+0921,19_cpx,Uganda,0,1,0,0
+0923,19_cpx,Uganda,385,1,0,0
+0928,A1,Kenya,173,1,0,0
+0927,A1,Kenya,0,1,0,0
+0932,A1,Kenya,210,1,0,0
+0931,A1,Kenya,0,1,0,0
+0941,D,Kenya,174,1,0,0
+0940,D,Kenya,0,1,0,0
+0958,A1,Uganda,89,1,0,0
+0957,A1,Uganda,0,1,0,0
+0959,A1,Uganda,336,1,0,0
+0964,D,Uganda,83,1,0,0
+0963,D,Uganda,0,1,0,0
+0965,D,Uganda,199,1,0,0
+0970,A1,Uganda,173,1,0,0
+0969,A1,Uganda,0,1,0,0
+0976,A1,Uganda,168,1,0,0
+0975,A1,Uganda,0,1,0,0
+0983,A1,Uganda,123,1,0,0
+0982,A1,Uganda,0,1,0,0
+0995,D,Uganda,307,1,0,0
+0994,D,Uganda,196,1,0,0
+0993,D,Uganda,0,1,0,0
+1000,A1,Uganda,307,1,0,0
+0999,A1,Uganda,0,1,0,0
+1002,A1,Uganda,82,1,0,0
+1001,A1,Uganda,0,1,0,0
+1003,A1,Uganda,257,1,0,0
+1012,A1,Kenya,219,1,0,0
+1011,A1,Kenya,0,1,0,0
+1016,A1,Kenya,168,1,0,0
+1015,A1,Kenya,0,1,0,0
+1020,A1,Kenya,168,1,0,0
+1019,A1,Kenya,0,1,0,0
+1027,08_BC,Kenya,410,1,0,0
+1026,08_BC,Kenya,0,1,0,0
+1033,A1,Kenya,168,1,0,0
+1032,A1,Kenya,0,1,0,0
+1037,C,Kenya,274,1,0,0
+1036,C,Kenya,0,1,0,0
+1038,C,Kenya,1030,1,0,0
+1042,31_BC,Kenya,336,1,0,0
+1041,31_BC,Kenya,0,1,0,0
+1047,A1,Kenya,182,1,0,0
+1046,A1,Kenya,0,1,0,0
+1057,35_AD,Uganda,84,1,0,0
+1056,35_AD,Uganda,0,1,0,0
+1058,35_AD,Uganda,172,1,0,0
+1059,35_AD,Uganda,336,1,0,0
+1062,35_AD,Uganda,364,1,0,0
+1061,35_AD,Uganda,196,1,0,0
+1060,35_AD,Uganda,0,1,0,0
+1066,A1,Uganda,84,1,0,0
+1065,A1,Uganda,0,1,0,0
+1067,A1,Uganda,88,1,0,0
+1075,D,Uganda,249,1,0,0
+1074,D,Uganda,0,1,0,0
+1079,35_AD,Uganda,365,1,0,0
+1078,35_AD,Uganda,0,1,0,0
+1083,A1,Uganda,130,1,0,0
+1082,A1,Uganda,0,1,0,0
+1084,A1,Uganda,343,1,0,0
+1089,D,Uganda,168,1,0,0
+1088,D,Uganda,0,1,0,0
+1090,D,Uganda,420,1,0,0
+1103,A1,Uganda,432,1,0,0
+1102,A1,Uganda,293,1,0,0
+1101,A1,Uganda,6,1,0,0
+1100,A1,Uganda,0,1,0,0
+1106,35_AD,Uganda,161,1,0,0
+1105,35_AD,Uganda,84,1,0,0
+1104,35_AD,Uganda,0,1,0,0
+1107,35_AD,Uganda,325,1,0,0
+1121,A1,Uganda,168,1,0,0
+1120,A1,Uganda,0,1,0,0
+1123,D,Uganda,168,1,0,0
+1122,D,Uganda,0,1,0,0
+1125,C,Uganda,128,1,0,0
+1124,C,Uganda,0,1,0,0
+1127,D,Uganda,136,1,0,0
+1126,D,Uganda,0,1,0,0
+1128,D,Uganda,311,1,0,0
+1133,A1,Uganda,112,1,0,0
+1132,A1,Uganda,44,1,0,0
+1131,A1,Uganda,0,1,0,0
+1134,A1,Uganda,280,1,0,0
+1144,A1,Kenya,167,1,0,0
+1143,A1,Kenya,0,1,0,0
+1148,A1,Kenya,308,1,0,0
+1147,A1,Kenya,0,1,0,0
+1149,A1,Kenya,737,1,0,0
+1151,A1,Kenya,916,1,0,0
+1150,A1,Kenya,0,1,0,0
+1155,31_BC,Kenya,176,1,0,0
+1154,31_BC,Kenya,0,1,0,0
+1162,35_AD,Kenya,271,1,0,0
+1161,A1,Kenya,0,1,0,0
+1166,A1,Kenya,256,1,0,0
+1165,A1,Kenya,0,1,0,0
+1177,50_A1D,Kenya,279,1,0,0
+1176,50_A1D,Kenya,0,1,0,0
+1182,A1,Uganda,173,1,0,0
+1181,A1,Uganda,0,1,0,0
+1186,D,Uganda,84,1,0,0
+1185,D,Uganda,0,1,0,0
+1187,D,Uganda,168,1,0,0
+1205,A1,Uganda,84,1,0,0
+1204,A1,Uganda,0,1,0,0
+1206,A1,Uganda,169,1,0,0
+1207,A1,Uganda,207,1,0,0
+0007,C,South Africa,364,1,1,1
+0006,C,South Africa,274,1,1,1
+0005,C,South Africa,0,1,1,1
+0014,C,South Africa,90,1,1,1
+0013,C,South Africa,0,1,1,1
+0015,C,South Africa,181,1,1,1
+0016,C,South Africa,720,1,1,1
+0020,C,South Africa,357,1,1,1
+0019,08_BC,South Africa,0,1,1,1
+0025,08_BC,South Africa,90,1,1,1
+0024,08_BC,South Africa,0,1,1,1
+0043,A1,Kenya,187,1,1,1
+0042,A1,Kenya,0,1,1,1
+0048,A1,Kenya,273,1,1,1
+0047,A1,Kenya,179,1,1,1
+0046,A1,Kenya,0,1,1,1
+0056,45_cpx,Kenya,372,1,0,0
+0055,45_cpx,Kenya,270,1,0,0
+0054,C,Kenya,0,1,0,0
+0062,D,Kenya,714,1,1,1
+0061,D,Kenya,0,1,1,1
+0065,D,Kenya,273,1,1,1
+0064,D,Kenya,180,1,1,1
+0063,A1,Kenya,0,1,1,1
+0067,A1,Kenya,90,1,1,1
+0066,A1,Kenya,0,1,1,1
+0068,A1,Kenya,448,1,1,1
+0079,A1,Kenya,274,1,1,1
+0078,A1,Kenya,176,1,1,1
+0077,A1,Kenya,0,1,1,1
+0086,A1,Kenya,443,1,0,0
+0085,A1,Kenya,0,1,0,0
+0092,A1,Kenya,202,1,1,1
+0091,A1,Kenya,0,1,1,1
+0101,A1,Uganda,271,1,1,1
+0100,A1,Uganda,188,1,1,1
+0099,A1,Uganda,0,1,1,1
+0102,A1,Uganda,721,1,1,1
+0110,D,Uganda,629,1,1,1
+0109,D,Uganda,546,1,1,1
+0111,D,Uganda,732,1,1,1
+0108,D,Uganda,0,1,1,1
+0116,A3,Uganda,95,1,0,0
+0115,A3,Uganda,0,1,0,0
+0117,A1,Uganda,361,1,0,0
+0127,D,Uganda,258,1,1,1
+0126,D,Uganda,180,1,1,1
+0125,D,Uganda,0,1,1,1
+0133,D,Uganda,630,1,1,1
+0132,D,Uganda,0,1,1,1
+0149,D,Uganda,358,1,1,1
+0148,D,Uganda,0,1,1,1
+0170,D,Uganda,722,1,1,1
+0168,D,Uganda,0,1,1,1
+0183,A1,Uganda,452,1,0,0
+0182,A1,Uganda,361,1,1,1
+0184,A1,Uganda,727,1,1,1
+0181,A1,Uganda,0,1,1,1
+0193,D,Uganda,720,1,1,1
+0192,D,Uganda,363,1,1,1
+0191,D,Uganda,0,1,1,1
+0199,D,Uganda,633,1,1,1
+0198,D,Uganda,542,1,1,1
+0206,A1,Uganda,360,1,1,1
+0205,A1,Uganda,0,1,1,1
+0221,A1,Uganda,552,1,1,1
+0220,A1,Uganda,490,1,1,1
+0219,A1,Uganda,0,1,1,1
+0225,A1,Uganda,197,1,1,1
+0224,A1,Uganda,0,1,1,1
+0242,D,Uganda,90,1,1,1
+0241,D,Uganda,0,1,1,1
+0256,D,Uganda,281,1,0,0
+0255,D,Uganda,184,1,1,1
+0254,D,Uganda,0,1,1,1
+0274,A1,Uganda,361,1,1,1
+0273,A1,Uganda,0,1,1,1
+0282,A1,Uganda,363,1,1,1
+0281,A1,Uganda,0,1,1,1
+0284,A1,Uganda,541,1,1,1
+0283,A1,Uganda,0,1,1,1
+0300,D,Uganda,368,1,1,1
+0299,D,Uganda,0,1,1,1
+0302,A1,Uganda,90,1,1,1
+0301,A1,Uganda,0,1,1,1
+0303,A1,Uganda,450,1,1,1
+0327,C,Botswana,273,1,0,0
+0326,C,Botswana,0,1,0,0
+0332,31_BC,Botswana,544,1,1,1
+0331,C,Botswana,361,1,1,1
+0330,C,Botswana,0,1,0,0
+0334,C,Botswana,92,1,1,1
+0333,C,Botswana,0,1,1,1
+0335,C,Botswana,270,1,1,1
+0338,08_BC,Botswana,450,1,1,1
+0337,08_BC,Botswana,93,1,1,1
+0354,C,Botswana,512,1,1,1
+0353,C,Botswana,270,1,1,1
+0352,C,Botswana,0,1,1,1
+0361,NA,NA,298,1,0,0
+0360,NA,NA,181,1,0,0
+0362,C,Botswana,360,1,1,1
+0359,C,Botswana,0,1,1,1
+0402,A1,Kenya,92,1,1,1
+0401,A1,Kenya,0,1,1,1
+0403,A1,Kenya,722,1,1,1
+0408,A1,Kenya,541,1,0,0
+0407,A1,Kenya,455,1,1,1
+0406,A1,Kenya,0,1,1,1
+0416,A1,Kenya,183,1,0,0
+0415,A1,Kenya,0,1,0,0
+0454,50_A1D,Kenya,540,1,1,1
+0453,50_A1D,Kenya,0,1,1,1
+0459,A1,Kenya,634,1,1,1
+0458,A1,Kenya,0,1,1,1
+0466,A1,Kenya,450,1,1,1
+0465,A1,Kenya,358,1,1,1
+0464,A1,Kenya,0,1,1,1
+0486,35_AD,Kenya,363,1,1,1
+0485,35_AD,Kenya,0,1,1,1
+0494,31_BC,Kenya,285,1,0,0
+0493,31_BC,Kenya,0,1,0,0
+0505,35_AD,Kenya,725,1,1,1
+0504,35_AD,Kenya,634,1,1,1
+0503,35_AD,Kenya,177,1,1,1
+0502,35_AD,Kenya,0,1,0,0
+0520,A1,Kenya,721,1,1,1
+0519,A1,Kenya,0,1,1,1
+0531,16_A2D,Kenya,361,1,1,1
+0530,16_A2D,Kenya,273,1,1,1
+0532,16_A2D,Kenya,374,1,1,1
+0529,16_A2D,Kenya,0,1,1,1
+0542,A1,Kenya,371,1,1,1
+0541,A1,Kenya,269,1,1,1
+0540,A1,Kenya,0,1,1,1
+0544,D,Kenya,539,1,1,1
+0543,D,Kenya,0,1,1,1
+0556,A1,Kenya,551,1,0,0
+0555,A1,Kenya,0,1,0,0
+0560,A1,Kenya,124,1,1,1
+0559,A1,Kenya,0,1,1,1
+0575,08_BC,Kenya,362,1,1,1
+0574,08_BC,Kenya,0,1,1,1
+0578,A1,Kenya,546,1,1,1
+0577,A1,Kenya,447,1,1,1
+0576,A1,Kenya,0,1,1,1
+0583,A1,Kenya,360,1,1,1
+0582,A1,Kenya,0,1,1,1
+0612,D,Kenya,448,1,1,1
+0611,D,Kenya,0,1,1,1
+0620,D,Kenya,721,1,1,1
+0619,D,Kenya,497,1,1,1
+0618,D,Kenya,0,1,1,1
+0625,A2,Kenya,693,1,1,1
+0624,A2,Kenya,453,1,1,1
+0623,A2,Kenya,0,1,1,1
+0635,C,Kenya,594,1,0,0
+0634,C,Kenya,361,1,0,0
+0633,C,Kenya,0,1,0,0
+0646,A1,Kenya,92,1,1,1
+0645,A1,Kenya,0,1,1,1
+0664,31_BC,Tanzania,454,1,1,1
+0663,C,Tanzania,361,1,1,1
+0665,31_BC,Tanzania,616,1,1,1
+0662,31_BC,Tanzania,0,1,1,1
+0670,08_BC,South Africa,185,1,1,1
+0669,08_BC,South Africa,0,1,1,1
+0677,C,South Africa,176,1,1,1
+0676,08_BC,South Africa,0,1,1,1
+0684,C,South Africa,271,1,1,1
+0683,C,South Africa,0,1,1,1
+0687,C,South Africa,632,1,1,1
+0686,C,South Africa,364,1,1,1
+0685,08_BC,South Africa,0,1,0,0
+0694,08_BC,South Africa,90,1,0,0
+0693,C,South Africa,0,1,0,0
+0698,08_BC,South Africa,361,1,0,0
+0697,C,South Africa,0,1,0,0
+0706,C,South Africa,592,1,0,0
+0705,08_BC,South Africa,0,1,0,0
+0714,08_BC,South Africa,175,1,0,0
+0713,08_BC,South Africa,0,1,0,0
+0720,C,South Africa,363,1,1,1
+0719,C,South Africa,271,1,1,1
+0718,C,South Africa,0,1,1,1
+0722,08_BC,South Africa,90,1,1,1
+0721,08_BC,South Africa,0,1,1,1
+0723,08_BC,South Africa,510,1,1,1
+0730,C,South Africa,392,1,1,1
+0729,08_BC,South Africa,301,1,1,1
+0731,C,South Africa,534,1,1,1
+0728,C,South Africa,0,1,1,1
+0733,08_BC,South Africa,92,1,0,0
+0732,08_BC,South Africa,0,1,0,0
+0734,08_BC,South Africa,480,1,0,0
+0739,C,South Africa,505,1,1,1
+0738,C,South Africa,0,1,1,1
+0749,C,South Africa,378,1,1,1
+0748,08_BC,South Africa,0,1,1,1
+0753,C,South Africa,323,1,1,1
+0752,C,South Africa,0,1,1,1
+0759,A1,Kenya,272,1,0,0
+0758,A1,Kenya,0,1,0,0
+0765,A1,Kenya,453,1,1,1
+0764,A1,Kenya,373,1,1,1
+0763,A1,Kenya,0,1,1,1
+0777,C,South Africa,286,1,1,1
+0776,C,South Africa,0,1,1,1
+0790,D,Uganda,84,1,1,1
+0789,D,Uganda,0,1,1,1
+0793,A1,Uganda,344,1,1,1
+0792,35_AD,Uganda,0,1,1,1
+0812,D,Uganda,361,1,1,1
+0811,D,Uganda,267,1,1,1
+0813,D,Uganda,375,1,1,1
+0810,D,Uganda,0,1,1,1
+0821,A1,Uganda,349,1,1,1
+0820,A1,Uganda,259,1,0,0
+0818,A1,Uganda,0,1,1,1
+0824,A1,Uganda,278,1,1,1
+0823,A1,Uganda,185,1,1,1
+0825,A1,Uganda,376,1,1,1
+0822,A1,Uganda,0,1,1,1
+0842,A1,Uganda,391,1,0,0
+0841,A1,Uganda,0,1,0,0
+0847,A1,Uganda,168,1,1,1
+0846,A1,Uganda,0,1,1,1
+0852,D,Uganda,504,1,1,1
+0850,D,Uganda,0,1,0,0
+0855,A1,Uganda,433,1,1,1
+0854,A1,Uganda,336,1,1,1
+0853,A1,Uganda,0,1,1,1
+0856,A1,Uganda,1008,1,1,1
+0862,A1,Uganda,336,1,1,1
+0861,A1,Uganda,0,1,1,1
+0863,A1,Uganda,843,1,1,1
+0867,D,Uganda,337,1,1,1
+0866,D,Uganda,0,1,0,0
+0868,D,Uganda,1004,1,1,1
+0870,A1,Uganda,448,1,0,0
+0869,A1,Uganda,0,1,0,0
+0875,A1,Uganda,1178,1,1,1
+0874,A1,Uganda,679,1,1,1
+0873,A1,Uganda,0,1,0,0
+0877,A1,Uganda,168,1,1,1
+0876,A1,Uganda,0,1,1,1
+0878,A1,Uganda,1076,1,1,1
+0886,A1,Uganda,408,1,1,1
+0885,A1,Uganda,336,1,1,1
+0887,A1,Uganda,504,1,1,1
+0884,A1,Uganda,0,1,0,0
+0888,A1,Uganda,1059,1,1,1
+0892,A1,Uganda,344,1,0,0
+0891,A1,Uganda,0,1,0,0
+0898,D,Uganda,168,1,0,0
+0897,D,Uganda,0,1,0,0
+0904,A1,Uganda,587,1,0,0
+0903,A1,Uganda,0,1,0,0
+0908,A1,Uganda,252,1,1,1
+0907,A1,Uganda,0,1,1,1
+0913,A1,Uganda,812,1,1,1
+0910,A1,Uganda,0,1,0,0
+0915,A1,Uganda,504,1,0,0
+0914,A1,Uganda,0,1,0,0
+0917,A1,Uganda,232,1,1,1
+0916,A1,Uganda,0,1,1,1
+0925,A1,Kenya,504,1,1,1
+0924,A1,Kenya,0,1,1,1
+0926,A1,Kenya,1068,1,1,1
+0930,A1,Kenya,500,1,1,1
+0929,A1,Kenya,0,1,1,1
+0939,D,Kenya,493,1,1,1
+0938,D,Kenya,0,1,1,1
+0944,A1,Kenya,477,1,1,1
+0943,A1,Kenya,311,1,1,1
+0942,A1,Kenya,0,1,1,1
+0947,21_A2D,Kenya,489,1,1,1
+0946,21_A2D,Kenya,336,1,1,1
+0948,21_A2D,Kenya,833,1,1,1
+0951,A1,Kenya,739,1,1,1
+0950,A1,Kenya,515,1,1,1
+0949,NA,NA,0,1,1,1
+0954,10_CD,Kenya,678,1,1,1
+0952,10_CD,Kenya,0,1,1,1
+0956,35_AD,Uganda,672,1,0,0
+0955,A1,Uganda,0,1,0,0
+0962,D,Uganda,294,1,0,0
+0961,D,Uganda,157,1,1,1
+0960,D,Uganda,0,1,1,1
+0968,A1,Uganda,632,1,0,0
+0967,A1,Uganda,504,1,1,1
+0973,A1,Uganda,263,1,1,1
+0972,D,Uganda,168,1,1,1
+0971,A1,Uganda,0,1,1,1
+0974,A1,Uganda,756,1,1,1
+0979,A1,Uganda,447,1,1,1
+0978,A1,Uganda,336,1,1,1
+0981,A1,Uganda,339,1,1,1
+0980,A1,Uganda,0,1,1,1
+0985,A1,Uganda,168,1,0,0
+0984,A1,Uganda,0,1,0,0
+0988,D,Uganda,842,1,1,1
+0987,D,Uganda,504,1,1,1
+0986,D,Uganda,0,1,1,1
+0992,D,Uganda,840,1,1,1
+0990,D,Uganda,0,1,1,1
+0998,A1,Uganda,272,1,0,0
+0997,A1,Uganda,168,1,1,1
+0996,A1,Uganda,0,1,1,1
+1006,35_AD,Uganda,280,1,1,1
+1005,35_AD,Uganda,168,1,1,1
+1004,35_AD,Uganda,0,1,1,1
+1008,A1,Kenya,1002,1,0,0
+1007,A1,Kenya,0,1,0,0
+1010,A1,Kenya,168,1,0,0
+1009,A1,Kenya,0,1,0,0
+1014,A1,Kenya,845,1,0,0
+1013,A1,Kenya,0,1,0,0
+1018,A1,Kenya,672,1,0,0
+1017,A1,Kenya,0,1,0,0
+1024,C,Kenya,938,1,1,1
+1023,31_BC,Kenya,818,1,1,1
+1022,C,Kenya,504,1,1,1
+1025,C,Kenya,1277,1,1,1
+1021,C,Kenya,0,1,0,0
+1029,A1,Kenya,469,1,0,0
+1028,A1,Kenya,0,1,0,0
+1031,A1,Kenya,672,1,0,0
+1030,A1,Kenya,0,1,0,0
+1035,A1,Kenya,336,1,0,0
+1034,A1,Kenya,0,1,0,0
+1040,C,Kenya,337,1,0,0
+1039,31_BC,Kenya,0,1,0,0
+1045,A1,Kenya,242,1,0,0
+1044,A1,Kenya,171,1,1,1
+1043,A1,Kenya,0,1,1,1
+1049,C,Uganda,950,1,1,1
+1048,C,Uganda,0,1,1,1
+1053,D,Uganda,573,1,1,1
+1052,D,Uganda,504,1,1,1
+1051,D,Uganda,168,1,1,1
+1050,D,Uganda,0,1,1,1
+1055,35_AD,Uganda,398,1,0,0
+1054,35_AD,Uganda,0,1,0,0
+1070,A1,Uganda,862,1,1,1
+1069,A1,Uganda,504,1,1,1
+1068,A1,Uganda,0,1,0,0
+1072,D,Uganda,504,1,0,0
+1071,D,Uganda,0,1,1,1
+1073,D,Uganda,1136,1,1,1
+1077,A1,Uganda,336,1,0,0
+1076,A1,Uganda,0,1,0,0
+1081,J,Uganda,290,1,0,0
+1080,J,Uganda,0,1,0,0
+1086,D,Uganda,168,1,1,1
+1085,D,Uganda,0,1,1,1
+1087,D,Uganda,532,1,1,1
+1093,A1,Uganda,909,1,1,1
+1092,A1,Uganda,840,1,1,1
+1091,A1,Uganda,0,1,1,1
+1096,A1,Uganda,755,1,1,1
+1095,A1,Uganda,670,1,1,1
+1097,A1,Uganda,758,1,1,1
+1094,A1,Uganda,0,1,1,1
+1099,A1,Uganda,181,1,0,0
+1098,A1,Uganda,0,1,0,0
+1109,A1,Uganda,168,1,0,0
+1108,A1,Uganda,0,1,0,0
+1110,A1,Uganda,504,1,0,0
+1112,A1,Uganda,716,1,0,0
+1111,A1,Uganda,0,1,0,0
+1117,D,Uganda,1008,1,0,0
+1116,C,Uganda,0,1,0,0
+1130,A1,Uganda,168,1,0,0
+1129,A1,Uganda,0,1,0,0
+1136,A2,Kenya,169,1,0,0
+1135,A2,Kenya,0,1,0,0
+1138,A1,Kenya,1007,1,0,0
+1137,A1,Kenya,0,1,0,0
+1141,31_BC,Kenya,433,1,1,1
+1140,31_BC,Kenya,343,1,1,1
+1142,31_BC,Kenya,1008,1,1,1
+1146,A1,Kenya,672,1,0,0
+1145,A1,Kenya,0,1,0,0
+1153,31_BC,Kenya,544,1,0,0
+1152,31_BC,Kenya,0,1,0,0
+1158,A1,Kenya,848,1,1,1
+1157,A1,Kenya,698,1,1,1
+1156,A1,Kenya,0,1,1,1
+1160,A1,Kenya,150,1,0,0
+1159,A1,Kenya,0,1,0,0
+1164,10_CD,Kenya,600,1,0,0
+1163,10_CD,Kenya,0,1,0,0
+1168,A1,Kenya,573,1,0,0
+1167,A1,Kenya,0,1,0,0
+1170,A1,Kenya,824,1,0,0
+1169,A1,Kenya,0,1,0,0
+1173,A1,Kenya,1282,1,0,0
+1172,A1,Kenya,841,1,0,0
+1171,A1,Kenya,0,1,0,0
+1179,A1,Uganda,504,1,1,1
+1178,35_AD,Uganda,0,1,1,1
+1189,A1,Uganda,671,1,0,0
+1188,A1,Uganda,0,1,0,0
+1195,A1,Uganda,840,1,1,1
+1194,A1,Uganda,504,1,1,1
+1198,A1,Uganda,672,1,1,1
+1197,A1,Uganda,336,1,1,1
+1196,A1,Uganda,0,1,1,1
+1201,A1,Uganda,443,1,1,1
+1200,A1,Uganda,290,1,1,1
+1199,A1,Uganda,0,1,1,1
+1203,A1,Uganda,672,1,1,1
+1202,A1,Uganda,0,1,1,1
+0069,A1,Kenya,0,0,1,0
+0105,D,Uganda,270,0,1,0
+0104,D,Uganda,214,0,1,0
+0103,D,Uganda,0,0,1,0
+0150,D,Uganda,0,0,1,0
+0247,D,Uganda,301,0,1,0
+0246,D,Uganda,0,0,1,0
+0304,A1,Uganda,0,0,1,0
+0429,A1,Kenya,388,0,1,0
+0428,A1,Kenya,0,0,1,0
+0492,08_BC,Kenya,181,0,1,0
+0491,C,Kenya,0,0,1,0
+0506,A1,Kenya,0,0,1,0
+0702,C,South Africa,0,0,1,0
+0715,C,South Africa,0,0,1,0
+0804,D,Uganda,0,0,1,0
+0814,D,Uganda,0,0,1,0
+0836,D,Uganda,0,0,1,0
+0860,A1,Uganda,334,0,1,0
+0882,A1,Uganda,336,0,1,0
+0880,A1,Uganda,13,0,1,0
+0879,A1,Uganda,0,0,1,0
+0890,A1,Uganda,78,0,1,0
+0889,A1,Uganda,0,0,1,0
+0906,G,Uganda,141,0,1,0
+0905,G,Uganda,0,0,1,0
+0002,C,South Africa,361,0,1,0
+0001,C,South Africa,0,0,1,0
+0004,C,South Africa,447,0,1,0
+0003,C,South Africa,0,0,1,0
+0012,C,South Africa,362,0,1,0
+0011,C,South Africa,0,0,1,0
+0018,C,South Africa,96,0,1,0
+0017,08_BC,South Africa,0,0,1,0
+0029,C,South Africa,267,0,1,0
+0028,C,South Africa,0,0,1,0
+0031,08_BC,South Africa,363,0,1,0
+0030,08_BC,South Africa,0,0,1,0
+0033,08_BC,South Africa,362,0,1,0
+0032,C,South Africa,0,0,1,0
+0035,08_BC,South Africa,361,0,1,0
+0034,C,South Africa,0,0,1,0
+0041,08_BC,Kenya,360,0,1,0
+0040,08_BC,Kenya,0,0,1,0
+0053,A1,Kenya,361,0,1,0
+0052,A1,Kenya,0,0,1,0
+0058,D,Kenya,360,0,1,0
+0057,D,Kenya,0,0,1,0
+0060,D,Kenya,365,0,1,0
+0059,D,Kenya,0,0,1,0
+0074,C,Kenya,376,0,1,0
+0073,C,Kenya,0,0,1,0
+0076,10_CD,Kenya,365,0,1,0
+0075,10_CD,Kenya,0,0,1,0
+0084,A1,Kenya,447,0,1,0
+0083,A1,Kenya,0,0,1,0
+0090,A1,Kenya,370,0,1,0
+0089,A1,Kenya,0,0,1,0
+0094,35_AD,Uganda,370,0,1,0
+0093,D,Uganda,0,0,1,0
+0096,D,Uganda,378,0,1,0
+0095,D,Uganda,0,0,1,0
+0098,A1,Uganda,363,0,1,0
+0097,A1,Uganda,0,0,1,0
+0107,D,Uganda,362,0,1,0
+0106,D,Uganda,0,0,1,0
+0122,A1,Uganda,365,0,1,0
+0121,A1,Uganda,0,0,1,0
+0124,D,Uganda,360,0,1,0
+0123,D,Uganda,0,0,1,0
+0131,A1,Uganda,360,0,1,0
+0130,A1,Uganda,0,0,1,0
+0137,03_AB,Uganda,364,0,1,0
+0136,A1,Uganda,0,0,1,0
+0139,A1,Uganda,361,0,1,0
+0138,A1,Uganda,0,0,1,0
+0141,D,Uganda,361,0,1,0
+0140,D,Uganda,0,0,1,0
+0143,A1,Uganda,361,0,1,0
+0142,A1,Uganda,0,0,1,0
+0145,D,Uganda,362,0,1,0
+0144,D,Uganda,0,0,1,0
+0147,D,Uganda,361,0,1,0
+0146,D,Uganda,0,0,1,0
+0155,A1,Uganda,360,0,1,0
+0154,A1,Uganda,0,0,1,0
+0157,D,Uganda,362,0,1,0
+0156,D,Uganda,0,0,1,0
+0159,A1,Uganda,360,0,1,0
+0158,A1,Uganda,0,0,1,0
+0161,A1,Uganda,363,0,1,0
+0160,A1,Uganda,0,0,1,0
+0163,A1,Uganda,360,0,1,0
+0162,A1,Uganda,0,0,1,0
+0167,A1,Uganda,367,0,1,0
+0166,A1,Uganda,0,0,1,0
+0169,D,Uganda,359,0,1,0
+0176,A1,Uganda,364,0,1,0
+0175,A1,Uganda,0,0,1,0
+0178,A3,Uganda,360,0,1,0
+0177,A3,Uganda,0,0,1,0
+0180,A1,Uganda,364,0,1,0
+0179,A1,Uganda,0,0,1,0
+0188,D,Uganda,360,0,1,0
+0187,D,Uganda,0,0,1,0
+0190,A1,Uganda,385,0,1,0
+0189,A1,Uganda,0,0,1,0
+0197,D,Uganda,0,0,1,0
+0211,D,Uganda,361,0,1,0
+0210,D,Uganda,0,0,1,0
+0213,D,Uganda,369,0,1,0
+0212,D,Uganda,0,0,1,0
+0223,A1,Uganda,369,0,1,0
+0222,A1,Uganda,0,0,1,0
+0231,A1,Uganda,361,0,1,0
+0230,A1,Uganda,0,0,1,0
+0233,A1,Uganda,361,0,1,0
+0232,A1,Uganda,0,0,1,0
+0238,35_AD,Uganda,367,0,1,0
+0237,35_AD,Uganda,0,0,1,0
+0240,35_AD,Uganda,361,0,1,0
+0239,35_AD,Uganda,0,0,1,0
+0249,D,Uganda,362,0,1,0
+0248,D,Uganda,0,0,1,0
+0251,A1,Uganda,360,0,1,0
+0250,A1,Uganda,0,0,1,0
+0253,D,Uganda,373,0,1,0
+0252,D,Uganda,0,0,1,0
+0261,A1,Uganda,362,0,1,0
+0260,A1,Uganda,0,0,1,0
+0265,D,Uganda,636,0,1,0
+0264,D,Uganda,545,0,1,0
+0263,35_AD,Uganda,454,0,1,0
+0262,D,Uganda,0,0,1,0
+0270,A1,Uganda,360,0,1,0
+0269,A1,Uganda,0,0,1,0
+0272,19_cpx,Uganda,364,0,1,0
+0271,19_cpx,Uganda,0,0,1,0
+0280,D,Uganda,360,0,1,0
+0279,D,Uganda,0,0,1,0
+0290,21_A2D,Uganda,366,0,1,0
+0289,21_A2D,Uganda,0,0,1,0
+0292,A1,Uganda,361,0,1,0
+0291,A1,Uganda,0,0,1,0
+0294,A1,Uganda,362,0,1,0
+0293,A1,Uganda,0,0,1,0
+0296,D,Uganda,360,0,1,0
+0295,D,Uganda,0,0,1,0
+0298,D,Uganda,368,0,1,0
+0297,D,Uganda,0,0,1,0
+0311,08_BC,Botswana,366,0,1,0
+0310,08_BC,Botswana,0,0,1,0
+0313,08_BC,Botswana,365,0,1,0
+0312,08_BC,Botswana,0,0,1,0
+0315,08_BC,Botswana,379,0,1,0
+0314,C,Botswana,0,0,1,0
+0317,C,Botswana,365,0,1,0
+0316,C,Botswana,0,0,1,0
+0319,08_BC,Botswana,365,0,1,0
+0318,C,Botswana,0,0,1,0
+0321,08_BC,Botswana,363,0,1,0
+0320,08_BC,Botswana,0,0,1,0
+0323,C,Botswana,367,0,1,0
+0322,C,Botswana,0,0,1,0
+0325,C,Botswana,365,0,1,0
+0324,C,Botswana,0,0,1,0
+0329,08_BC,Botswana,362,0,1,0
+0328,08_BC,Botswana,0,0,1,0
+0336,08_BC,Botswana,0,0,1,0
+0343,C,Botswana,365,0,1,0
+0342,C,Botswana,0,0,1,0
+0347,C,Botswana,361,0,1,0
+0346,C,Botswana,0,0,1,0
+0349,08_BC,Botswana,365,0,1,0
+0348,08_BC,Botswana,0,0,1,0
+0351,C,Botswana,364,0,1,0
+0350,08_BC,Botswana,0,0,1,0
+0356,C,Botswana,365,0,1,0
+0355,C,Botswana,0,0,1,0
+0358,08_BC,Botswana,361,0,1,0
+0357,08_BC,Botswana,0,0,1,0
+0366,A1,Kenya,365,0,1,0
+0365,A1,Kenya,0,0,1,0
+0368,A1,Kenya,364,0,1,0
+0367,A1,Kenya,0,0,1,0
+0370,21_A2D,Kenya,372,0,1,0
+0369,21_A2D,Kenya,0,0,1,0
+0374,A1,Kenya,365,0,1,0
+0373,A1,Kenya,0,0,1,0
+0376,A1,Kenya,360,0,1,0
+0375,A1,Kenya,0,0,1,0
+0378,A1,Kenya,109,0,1,0
+0377,A1,Kenya,0,0,1,0
+0379,A1,Kenya,372,0,1,0
+0381,A2,Kenya,91,0,1,0
+0380,A2,Kenya,0,0,1,0
+0382,A2,Kenya,366,0,1,0
+0384,A1,Kenya,92,0,1,0
+0383,A1,Kenya,0,0,1,0
+0386,A1,Kenya,364,0,1,0
+0385,A1,Kenya,0,0,1,0
+0388,A1,Kenya,98,0,1,0
+0387,A1,Kenya,0,0,1,0
+0390,D,Kenya,382,0,1,0
+0389,D,Kenya,0,0,1,0
+0392,C,Kenya,92,0,1,0
+0391,C,Kenya,0,0,1,0
+0393,C,Kenya,453,0,1,0
+0395,D,Kenya,361,0,1,0
+0394,D,Kenya,0,0,1,0
+0397,A1,Kenya,94,0,1,0
+0396,A1,Kenya,0,0,1,0
+0399,A1,Kenya,91,0,1,0
+0398,A1,Kenya,0,0,1,0
+0400,A1,Kenya,452,0,1,0
+0405,A1,Kenya,92,0,1,0
+0404,A1,Kenya,0,0,1,0
+0413,A1,Kenya,94,0,1,0
+0412,A1,Kenya,0,0,1,0
+0414,A1,Kenya,361,0,1,0
+0421,A1,Kenya,362,0,1,0
+0420,A1,Kenya,0,0,1,0
+0423,A1,Kenya,371,0,1,0
+0422,A2,Kenya,0,0,1,0
+0425,A1,Kenya,543,0,1,0
+0424,A1,Kenya,0,0,1,0
+0427,50_A1D,Kenya,360,0,1,0
+0426,21_A2D,Kenya,0,0,1,0
+0433,19_cpx,Kenya,361,0,1,0
+0432,19_cpx,Kenya,0,0,1,0
+0435,A1,Kenya,360,0,1,0
+0434,A1,Kenya,0,0,1,0
+0437,A1,Kenya,363,0,1,0
+0436,A1,Kenya,0,0,1,0
+0441,A1,Kenya,264,0,1,0
+0440,A1,Kenya,0,0,1,0
+0443,A1,Kenya,94,0,1,0
+0442,A1,Kenya,0,0,1,0
+0445,A1,Kenya,93,0,1,0
+0444,A1,Kenya,0,0,1,0
+0446,A1,Kenya,360,0,1,0
+0447,A1,Kenya,721,0,1,0
+0449,A1,Kenya,92,0,1,0
+0448,A1,Kenya,0,0,1,0
+0450,A1,Kenya,360,0,1,0
+0452,A2,Kenya,628,0,1,0
+0451,16_A2D,Kenya,0,0,1,0
+0461,A1,Kenya,363,0,1,0
+0460,A1,Kenya,0,0,1,0
+0463,21_A2D,Kenya,361,0,1,0
+0462,21_A2D,Kenya,0,0,1,0
+0471,G,Kenya,182,0,1,0
+0470,G,Kenya,0,0,1,0
+0473,D,Kenya,377,0,1,0
+0472,D,Kenya,0,0,1,0
+0475,A1,Kenya,361,0,1,0
+0474,A1,Kenya,0,0,1,0
+0477,A1,Kenya,360,0,1,0
+0476,A1,Kenya,0,0,1,0
+0479,A1,Kenya,365,0,1,0
+0478,A1,Kenya,0,0,1,0
+0484,A1,Kenya,363,0,1,0
+0483,A1,Kenya,0,0,1,0
+0488,D,Kenya,352,0,1,0
+0487,D,Kenya,0,0,1,0
+0490,08_BC,Kenya,150,0,1,0
+0489,C,Kenya,0,0,1,0
+0501,A1,Kenya,364,0,1,0
+0500,A1,Kenya,0,0,1,0
+0512,A1,Kenya,87,0,1,0
+0511,A1,Kenya,0,0,1,0
+0517,D,Kenya,357,0,1,0
+0516,D,Kenya,271,0,1,0
+0515,D,Kenya,0,0,1,0
+0518,D,Kenya,717,0,1,0
+0526,C,Kenya,364,0,1,0
+0525,31_BC,Kenya,0,0,1,0
+0528,D,Kenya,360,0,1,0
+0527,D,Kenya,0,0,1,0
+0534,50_A1D,Kenya,363,0,1,0
+0533,50_A1D,Kenya,0,0,1,0
+0536,A1,Kenya,360,0,1,0
+0535,A1,Kenya,0,0,1,0
+0548,G,Kenya,363,0,1,0
+0547,G,Kenya,0,0,1,0
+0550,31_BC,Kenya,366,0,1,0
+0549,C,Kenya,0,0,1,0
+0552,A1,Kenya,361,0,1,0
+0551,A1,Kenya,0,0,1,0
+0562,D,Kenya,361,0,1,0
+0561,D,Kenya,0,0,1,0
+0564,A1,Kenya,91,0,1,0
+0563,A1,Kenya,0,0,1,0
+0568,50_A1D,Kenya,361,0,1,0
+0567,50_A1D,Kenya,0,0,1,0
+0570,A1,Kenya,275,0,1,0
+0569,A1,Kenya,0,0,1,0
+0587,D,Kenya,360,0,1,0
+0586,D,Kenya,0,0,1,0
+0589,10_CD,Kenya,361,0,1,0
+0588,10_CD,Kenya,0,0,1,0
+0591,A1,Kenya,361,0,1,0
+0590,A1,Kenya,0,0,1,0
+0593,A1,Kenya,366,0,1,0
+0592,A1,Kenya,0,0,1,0
+0595,C,Kenya,368,0,1,0
+0594,C,Kenya,0,0,1,0
+0597,A1,Kenya,381,0,1,0
+0596,A1,Kenya,0,0,1,0
+0599,A1,Kenya,364,0,1,0
+0598,A1,Kenya,0,0,1,0
+0601,A1,Kenya,360,0,1,0
+0600,A1,Kenya,0,0,1,0
+0603,D,Kenya,375,0,1,0
+0602,D,Kenya,0,0,1,0
+0605,D,Kenya,378,0,1,0
+0604,D,Kenya,0,0,1,0
+0607,35_AD,Kenya,364,0,1,0
+0606,35_AD,Kenya,0,0,1,0
+0609,A1,Kenya,360,0,1,0
+0608,A1,Kenya,0,0,1,0
+0610,A1,Kenya,721,0,1,0
+0617,A1,Kenya,361,0,1,0
+0616,A1,Kenya,0,0,1,0
+0632,A1,Kenya,363,0,1,0
+0631,A1,Kenya,0,0,1,0
+0640,G,Kenya,369,0,1,0
+0639,G,Kenya,0,0,1,0
+0642,A1,Kenya,360,0,1,0
+0641,A1,Kenya,0,0,1,0
+0644,A1,Kenya,372,0,1,0
+0643,A1,Kenya,0,0,1,0
+0650,A1,Kenya,364,0,1,0
+0649,A1,Kenya,0,0,1,0
+0652,A1,Kenya,371,0,1,0
+0651,A1,Kenya,0,0,1,0
+0654,A1,Kenya,366,0,1,0
+0653,A1,Kenya,0,0,1,0
+0656,A1,Tanzania,385,0,1,0
+0655,A1,Tanzania,0,0,1,0
+0658,D,Tanzania,361,0,1,0
+0657,D,Tanzania,0,0,1,0
+0660,A1,Tanzania,362,0,1,0
+0659,A1,Tanzania,0,0,1,0
+0661,A1,Tanzania,727,0,1,0
+0667,C,South Africa,84,0,1,0
+0666,08_BC,South Africa,0,0,1,0
+0668,C,South Africa,471,0,1,0
+0672,C,South Africa,82,0,1,0
+0671,C,South Africa,0,0,1,0
+0674,08_BC,South Africa,90,0,1,0
+0673,08_BC,South Africa,0,0,1,0
+0675,08_BC,South Africa,380,0,1,0
+0692,C,South Africa,362,0,1,0
+0691,C,South Africa,0,0,1,0
+0712,08_BC,South Africa,448,0,1,0
+0711,C,South Africa,360,0,1,0
+0710,08_BC,South Africa,0,0,1,0
+0743,C,South Africa,362,0,1,0
+0742,C,South Africa,0,0,1,0
+0745,C,South Africa,364,0,1,0
+0744,C,South Africa,0,0,1,0
+0751,08_BC,South Africa,388,0,1,0
+0750,C,South Africa,0,0,1,0
+0757,A1,Kenya,361,0,1,0
+0756,A1,Kenya,0,0,1,0
+0769,A1,Kenya,93,0,1,0
+0768,A1,Kenya,0,0,1,0
+0771,A1,Kenya,361,0,1,0
+0770,A1,Kenya,0,0,1,0
+0773,A1,Kenya,379,0,1,0
+0772,A1,Kenya,0,0,1,0
+0775,A1,Kenya,362,0,1,0
+0774,A1,Kenya,0,0,1,0
+0784,D,Uganda,378,0,1,0
+0783,D,Uganda,0,0,1,0
+0786,35_AD,Uganda,360,0,1,0
+0785,35_AD,Uganda,0,0,1,0
+0791,D,Uganda,361,0,1,0
+0799,D,Uganda,363,0,1,0
+0798,D,Uganda,0,0,1,0
+0801,35_AD,Uganda,245,0,1,0
+0800,35_AD,Uganda,0,0,1,0
+0803,D,Uganda,370,0,1,0
+0802,D,Uganda,0,0,1,0
+0809,D,Uganda,379,0,1,0
+0808,D,Uganda,0,0,1,0
+0819,A1,Uganda,182,0,1,0
+0833,D,Uganda,140,0,1,0
+0832,D,Uganda,0,0,1,0
+0834,D,Uganda,180,0,1,0
+0835,D,Uganda,368,0,1,0
+0851,D,Uganda,336,0,1,0
+0909,A1,Uganda,341,0,1,0
+0912,A1,Uganda,644,0,1,0
+0911,A1,Uganda,337,0,1,0
+0934,A1,Kenya,707,0,1,0
+0933,A1,Kenya,0,0,1,0
+0936,C,Kenya,362,0,1,0
+0935,C,Kenya,0,0,1,0
+0937,C,Kenya,732,0,1,0
+0945,21_A2D,Kenya,0,0,1,0
+0953,10_CD,Kenya,651,0,1,0
+0966,A1,Uganda,0,0,1,0
+0977,A1,Uganda,0,0,1,0
+0989,D,Uganda,903,0,1,0
+0991,D,Uganda,664,0,1,0
+1064,A1,Uganda,168,0,1,0
+1063,A1,Uganda,0,0,1,0
+1114,D,Uganda,364,0,1,0
+1113,D,Uganda,0,0,1,0
+1115,D,Uganda,869,0,1,0
+1119,35_AD,Uganda,168,0,1,0
+1118,35_AD,Uganda,0,0,1,0
+1139,31_BC,Kenya,0,0,1,0
+1175,A1,Kenya,839,0,1,0
+1174,A1,Kenya,0,0,1,0
+1180,A1,Uganda,588,0,1,0
+1184,D,Uganda,168,0,1,0
+1183,D,Uganda,0,0,1,0
+1191,A1,Uganda,551,0,1,0
+1190,A1,Uganda,0,0,1,0
+1193,A1,Uganda,336,0,1,0
+1192,A1,Uganda,0,0,1,0
