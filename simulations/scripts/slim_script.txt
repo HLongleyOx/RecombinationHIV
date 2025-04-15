@@ -1,0 +1,41 @@
+initialize() {
+
+ initializeSLiMOptions(nucleotideBased=T); 
+ defineConstant("L", initializeAncestralNucleotides("../HXB2.txt" ));
+
+ initializeMutationTypeNuc("m1", 0.5, "f", 0.0);
+
+ initializeGenomicElementType("g1", m1, 1.0, mmJukesCantor(3.33333333333333e-06));
+ initializeGenomicElement(g1, 0, L-1);
+ initializeRecombinationRate(5e-06);
+                        
+}
+1 early() {   sim.addSubpop("p1",10000); }
+ 
+50000 late() { sim.outputFixedMutations(filePath="gen_50000_fixed.txt"); } 
+50000 late() { p1.outputSample(300, filePath="gen_50000_seg.txt"); } 
+50050 late() { sim.outputFixedMutations(filePath="gen_50050_fixed.txt"); } 
+50050 late() { p1.outputSample(300, filePath="gen_50050_seg.txt"); } 
+50100 late() { sim.outputFixedMutations(filePath="gen_50100_fixed.txt"); } 
+50100 late() { p1.outputSample(300, filePath="gen_50100_seg.txt"); } 
+50150 late() { sim.outputFixedMutations(filePath="gen_50150_fixed.txt"); } 
+50150 late() { p1.outputSample(300, filePath="gen_50150_seg.txt"); } 
+50200 late() { sim.outputFixedMutations(filePath="gen_50200_fixed.txt"); } 
+50200 late() { p1.outputSample(300, filePath="gen_50200_seg.txt"); } 
+50250 late() { sim.outputFixedMutations(filePath="gen_50250_fixed.txt"); } 
+50250 late() { p1.outputSample(300, filePath="gen_50250_seg.txt"); } 
+50300 late() { sim.outputFixedMutations(filePath="gen_50300_fixed.txt"); } 
+50300 late() { p1.outputSample(300, filePath="gen_50300_seg.txt"); } 
+50350 late() { sim.outputFixedMutations(filePath="gen_50350_fixed.txt"); } 
+50350 late() { p1.outputSample(300, filePath="gen_50350_seg.txt"); } 
+50400 late() { sim.outputFixedMutations(filePath="gen_50400_fixed.txt"); } 
+50400 late() { p1.outputSample(300, filePath="gen_50400_seg.txt"); } 
+50450 late() { sim.outputFixedMutations(filePath="gen_50450_fixed.txt"); } 
+50450 late() { p1.outputSample(300, filePath="gen_50450_seg.txt"); } 
+50500 late() { sim.outputFixedMutations(filePath="gen_50500_fixed.txt"); } 
+50500 late() { p1.outputSample(300, filePath="gen_50500_seg.txt"); } 
+50550 late() { sim.outputFixedMutations(filePath="gen_50550_fixed.txt"); } 
+50550 late() { p1.outputSample(300, filePath="gen_50550_seg.txt"); } 
+50600 late() { sim.outputFixedMutations(filePath="gen_50600_fixed.txt"); } 
+50600 late() { p1.outputSample(300, filePath="gen_50600_seg.txt"); } 
+
