@@ -14,23 +14,26 @@ Pipeline for simulation analysis:
 This folder contains 150 fasta files containing the output from SLiM which has been converted from .txt to .fasta. 
 
 #### Scripts:
-1. Slim file 
-2. Convert .txt to .fasta
-   output: Fasta files containing alignments found in the simulated sequence data folder 
-4. Identify diverse sites
-   Input:
-   Output:
-6. Measure linkage disequilibrium
-   Input:
-   Output:
-8. Estimate recombination
-   Input:
-   Output: 
+1. slim_script.txt
+   Example of the file run with SLiM to simulate sequences of neutrally evolving viral populations of 1000bps long for different recombination rate choices. The initial sequence from which     the virus evolves is 'HXB2.txt'. The simulations ran for 5e10 generations and were then sampled every 50 generations for 600 generations. 
+2. generate_fastas.py
+   File which converted the .txt output from SLiM to fasta files
+   input: .txt SLiM output of sampled sequences 
+   output: Fasta files containing alignments found in the simulated sequence data folder. 
+3. linkage_disequilibrium.py
+   script to identify pairs of diverse sites in a set of sequences and measure linkage over time. 
+   Input: fasta files in sequenced_simulated_data folder.
+   Output: a linkage file for each simulated infection describing allele frequencies and linkage.
+   This was ran as a batch job in a HPC environment due to computational demands. Files need to be concatenated after for a single csv per 'true recombination value'
+4. Estimate recombination
+   This R script takes the linkage dataset, formats and filters the dataset for model fit, and fits the model. 
+   Input: The linkage files generated in step 3
+   Output: Plot of measured recombination for different maximum values of time-scaled distance
 
 ### Partners 
 Prior to the scripts, the raw bam reads must be processsed with Phyloscanner to generate fasta files for each window. Phyloscanner default settings are applied, and the set of references in included here as a datafile. Windows of length 750bps are applied to PacBio data and 250bps for Illumina data. Windows over lap by 740bps (or 240bps in case of Illumina). Due to the size of the datasets it was necessary to utilise batch jobs on a HPC environment. 
 
 1. Linkage estimation
-   
-3. Filter dataset
+2. Trajectory calculation
+3. Produces linkage dataset for model fit 
 4. Produce results and figures
